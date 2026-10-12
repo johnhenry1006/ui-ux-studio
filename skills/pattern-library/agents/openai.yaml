@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pattern Library"
+  short_description: "Keep project patterns consistent"
+  default_prompt: "Use $pattern-library to manage design patterns for this project."

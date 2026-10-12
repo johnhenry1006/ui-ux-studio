@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Design"
+  short_description: "Design screens and visual systems"
+  default_prompt: "Use $ui-design for this UI UX task."

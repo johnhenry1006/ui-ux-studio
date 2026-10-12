@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Brief"
+  short_description: "Define the product design brief"
+  default_prompt: "Use $project-brief to define this project."

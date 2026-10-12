@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Audit"
+  short_description: "Audit interfaces with evidence"
+  default_prompt: "Use $design-audit for this UI UX task."

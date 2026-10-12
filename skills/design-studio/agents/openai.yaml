@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design Studio"
+  short_description: "Plan and coordinate UI UX work"
+  default_prompt: "Use $design-studio to help with this UI UX project."

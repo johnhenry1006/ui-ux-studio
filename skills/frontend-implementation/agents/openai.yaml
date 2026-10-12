@@ -1,0 +1,4 @@
+interface:
+  display_name: "Frontend Implementation"
+  short_description: "Build UI using existing conventions"
+  default_prompt: "Use $frontend-implementation for this UI UX task."
