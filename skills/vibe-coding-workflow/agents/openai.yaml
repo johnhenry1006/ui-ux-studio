@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Coding Workflow"
+  short_description: "Run design tasks with evidence"
+  default_prompt: "Use $vibe-coding-workflow to plan or execute this UI UX task."

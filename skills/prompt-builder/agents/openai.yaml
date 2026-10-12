@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Builder"
+  short_description: "Create grounded design task prompts"
+  default_prompt: "Use $prompt-builder to create a clear UI UX prompt packet."

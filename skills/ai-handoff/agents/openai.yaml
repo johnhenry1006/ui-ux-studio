@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Handoff"
+  short_description: "Adapt prompts and execution guides"
+  default_prompt: "Use $ai-handoff to prepare this task for my target AI."

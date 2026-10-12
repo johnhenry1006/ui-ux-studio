@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "task_id": "task-example",
+  "provider": "generic",
+  "surface": "unknown",
+  "context_items": [],
+  "capabilities": {
+    "read_files": "unknown",
+    "edit_files": "unknown",
+    "run_commands": "unknown",
+    "inspect_images": "unknown",
+    "browser": "unknown",
+    "persist_files": "unknown",
+    "external_actions": "unknown"
+  },
+  "capability_evidence": {
+    "read_files": null,
+    "edit_files": null,
+    "run_commands": null,
+    "inspect_images": null,
+    "browser": null,
+    "persist_files": null,
+    "external_actions": null
+  }
+}

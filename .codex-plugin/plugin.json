@@ -1,0 +1,26 @@
+{
+    "interface": {
+        "category": "Productivity",
+        "composerIcon": "assets/icon.svg",
+        "defaultPrompt": [
+            "Help me design a new website or web app and create its project design system.",
+            "Audit this interface and prioritize UI/UX improvements based on the available evidence.",
+            "Implement this screen using the existing codebase and project patterns."
+        ],
+        "developerName": "Henry Join",
+        "displayName": "UI UX Studio",
+        "logo": "assets/icon.svg",
+        "longDescription": "Design websites and web apps, improve existing UI/UX, and implement frontend using a shared pattern library and project-specific design system. New projects use ReactJS or HTML with JavaScript and plain CSS; existing repos keep their conventions. Tool access depends on the host.",
+        "shortDescription": "Design, audit and build UI/UX",
+        "capabilities": []
+    },
+    "name": "ui-ux-studio",
+    "version": "0.2.0",
+    "description": "UI/UX workflows for designers and developers: new designs, evidence-based audits, frontend implementation and consistent project pattern libraries.",
+    "author": {
+        "name": "Henry Join",
+        "email": "thinhhn.dev@gmail.com"
+    },
+    "keywords": [],
+    "skills": "./skills"
+}

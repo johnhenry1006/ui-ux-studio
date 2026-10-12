@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "workflow_id": "workflow-example",
+  "project_reference": null,
+  "mode": "export",
+  "steps": []
+}

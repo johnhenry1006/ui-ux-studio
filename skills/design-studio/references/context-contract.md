@@ -1,6 +1,6 @@
 # Context contract
 
-Record: task mode (new-design/audit/implement/pattern), brief source, preference source, system source, screen source, repo/stack evidence and capabilities. Unknown fields stay unknown. A path mentioned by a user is not proof that its contents were read.
+Record: task mode (new-design/audit/implement/pattern/prompt/handoff/workflow), brief source, preference source, system source, screen source, repo/stack evidence and capabilities. Unknown fields stay unknown. A path mentioned by a user is not proof that its contents were read.
 
 ## Read and prioritize
 
@@ -17,3 +17,9 @@ Evidence: observed code, actual screenshot, reachable page, research supplied. A
 Use repository files when available. Outside repos, ask for a shared folder location supported by the host; suggest `UI-UX-Studio/preferences.md` and `UI-UX-Studio/patterns/`. Treat packaged catalog as seed, not mutable personal data. In chat-only mode provide exportable content and say persistence is unverified. Record actual locations in the brief.
 
 If a required file/tool is absent, request it or explicitly narrow the output. Do not claim unseen interactions, automatic sync, file saving, browser checks or research. Do not search unrelated user files for a missing project.
+
+## Prompt and workflow targets
+
+Identify target artifact type, provider/surface and capabilities independently. Producer sources read is provenance; a recipient must receive/read those sources again. A provider profile supplies documented guidance, not actual access. Unknown surfaces use focused clarification or generic/manual packet delivery.
+
+Prompt-only/export prepares instructions and artifacts for handoff; direct executes within current tools and user scope. Store project packets/progress in design/ai/ or equivalent, not inside packaged skills. Track observed vs user_provided vs none evidence; required fail/not_run/missing evidence blocks completion. Old progress logs require current source/revision checks before resume.
