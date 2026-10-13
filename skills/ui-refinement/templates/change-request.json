@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "request_id": "template-request",
+  "selection_reference": "selection.json",
+  "instruction": "Replace with the requested change",
+  "expected_result": "Replace with observable result",
+  "edit_scope": "instance",
+  "preserve": [],
+  "source_revision": null,
+  "affected_consumers": [],
+  "unresolved_items": [
+    "Identify current target and source before editing"
+  ],
+  "acceptance_results": []
+}

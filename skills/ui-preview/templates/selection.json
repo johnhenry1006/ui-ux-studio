@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "selection_id": "template-selection",
+  "preview_id": null,
+  "page_reference": "requested:page",
+  "input_mode": "description",
+  "ui_id": null,
+  "instance_key": null,
+  "locator_hint": null,
+  "screenshot_reference": null,
+  "region": null,
+  "observed_revision": null,
+  "source_reference": null,
+  "mapping_status": "unresolved",
+  "label": "Target to identify"
+}

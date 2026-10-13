@@ -22,3 +22,5 @@ Implement agreed behavior with existing conventions and truthful verification.
 Example: Vue/TS/Tailwind Settings → preserve stack and local notification edit → use existing route/components → report actual tests; personal React preference does not rewrite repo.
 
 Common mistakes: unsolicited migrations, adding dependencies reflexively, route claims without router, declaring success after a failed build and ignoring affected screens.
+
+For selected header/item/component edits use [UI Refinement](../ui-refinement/SKILL.md); for preview/selection/fidelity and refresh use [UI Preview](../ui-preview/SKILL.md). Retain current task scope and existing contracts.

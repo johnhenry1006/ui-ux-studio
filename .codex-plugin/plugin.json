@@ -15,7 +15,7 @@
         "capabilities": []
     },
     "name": "ui-ux-studio",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "description": "UI/UX workflows for designers and developers: new designs, evidence-based audits, frontend implementation and consistent project pattern libraries.",
     "author": {
         "name": "Henry Join",

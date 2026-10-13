@@ -1,6 +1,6 @@
 ---
 name: design-studio
-description: Use when a designer or developer requests website or app UI UX work, design prompts for an AI, prompt handoff, a vibe coding workflow, an interface audit, frontend implementation, multiple pages or continuation of a design project needing context coordination.
+description: Use when a designer or developer requests website or app UI UX work, design prompts for an AI, prompt handoff, a vibe coding workflow, focused UI changes, selectable previews, an interface audit, frontend implementation, multiple pages or continuation of a design project needing context coordination.
 ---
 
 # Design Studio
@@ -16,6 +16,8 @@ Coordinate only the work required by the user's task. Match the user's language;
 | Purpose/scope unclear | [Project Brief](../project-brief/SKILL.md) |
 | Flow, navigation, task/state behavior | [UX Design](../ux-design/SKILL.md) |
 | Layout, visual direction, components | [UI Design](../ui-design/SKILL.md) |
+| Focused header/item/component edit | [UI Refinement](../ui-refinement/SKILL.md) |
+| Preview, select/highlight, refresh UI | [UI Preview](../ui-preview/SKILL.md) |
 | Existing interface problems | [Design Audit](../design-audit/SKILL.md) |
 | Frontend code | [Frontend Implementation](../frontend-implementation/SKILL.md) |
 | Reuse, consistency, version updates | [Pattern Library](../pattern-library/SKILL.md) |

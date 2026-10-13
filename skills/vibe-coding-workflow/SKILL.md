@@ -24,3 +24,5 @@ Progress by verified artifacts and task scope, not optimistic completion labels.
 Example: source-only table caption task → locate four consumers including an omitted screen → change component/callers → inspect source/records → source criteria pass; browser optional not_run, no render claim.
 
 Common mistakes: complete-by-log, export-as-execution, blanket rewrite/migration, reflexive approvals, invented checks or pretending a provider profile is an integration.
+
+For selected header/item/component edits use [UI Refinement](../ui-refinement/SKILL.md); for preview/selection/fidelity and refresh use [UI Preview](../ui-preview/SKILL.md). Retain current task scope and existing contracts.

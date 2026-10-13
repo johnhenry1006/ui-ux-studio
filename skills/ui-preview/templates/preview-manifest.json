@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "preview_id": "template-preview",
+  "project_reference": "requested:project",
+  "page_reference": "requested:page",
+  "preview_kind": "unavailable",
+  "artifact_reference": null,
+  "source_revision": null,
+  "viewport_description": "Not observed",
+  "state_description": "Not observed",
+  "observed_at": null,
+  "elements": []
+}

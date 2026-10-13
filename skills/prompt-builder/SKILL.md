@@ -22,3 +22,5 @@ Create an executable task contract from actual project context. Prompt quality r
 Example: Reports prompt references data-table@0.1.0 and ReactJS/plain CSS, identifies an absent brief, and requests source reuse/inventory update; it does not claim Reports was implemented.
 
 Common mistakes: promising zero errors, vague “make it beautiful”, fabricated paths/approvals/research, secret credentials in packets, or requesting private chain-of-thought. Request concise rationale and checkable evidence instead.
+
+For selected header/item/component edits use [UI Refinement](../ui-refinement/SKILL.md); for preview/selection/fidelity and refresh use [UI Preview](../ui-preview/SKILL.md). Retain current task scope and existing contracts.

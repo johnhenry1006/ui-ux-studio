@@ -22,3 +22,5 @@ Create a visual system that supports agreed UX and project identity.
 Example: project billing uses purple action token and 4px spacing despite personal blue/6px preference; mobile one-column hierarchy preserves plan/payment/invoice actions and states.
 
 Common mistakes: generic decoration unrelated to product, silently changing shared tokens, arbitrary color values replacing named tokens, desktop-only screens and implementation details in user-facing flows.
+
+For selected header/item/component edits use [UI Refinement](../ui-refinement/SKILL.md); for preview/selection/fidelity and refresh use [UI Preview](../ui-preview/SKILL.md). Retain current task scope and existing contracts.

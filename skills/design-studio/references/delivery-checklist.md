@@ -13,3 +13,5 @@ Separate structural checks, behavior tests, visual inspection and host installat
 For a small edit, a short paragraph suffices. For audit, use the report template. Deliver files through the host's supported storage; don't invent URLs, file IDs or saved status.
 
 For prompts/handoff/workflow, distinguish packet prepared, artifact generated and target execution verified. Include provider/surface, source delivery/missing context, evidence provenance and required blocked criteria. A profile or exported guide is not a live provider test. Resume lists current sources/revisions and next action; unverified legacy complete labels do not become new passes.
+
+Focused edit delivery: target/page/stable key, instance/shared scope, preserved parts, actual diff/checks, preview kind/current revision and refresh gaps. Export-only packets do not imply changes; required rendered check unrun blocks rendered completion.

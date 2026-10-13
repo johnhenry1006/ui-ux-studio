@@ -22,3 +22,5 @@ Adapt delivery and execution instructions while retaining the task contract.
 Example: one Reports contract exported to four providers retains ReactJS/plain CSS and data-table@0.1.0; only context delivery and execution guide differ.
 
 Common mistakes: treating profiles as permissions, claiming live provider execution from local trials, adapting away stack/criteria, overwriting AGENTS.md/CLAUDE.md, or shipping unusable local paths as attachments.
+
+For selected header/item/component edits use [UI Refinement](../ui-refinement/SKILL.md); for preview/selection/fidelity and refresh use [UI Preview](../ui-preview/SKILL.md). Retain current task scope and existing contracts.

@@ -1,0 +1,3 @@
+interface:
+  display_name: "UI Preview"
+  short_description: "Preview UI and select focused edit regions"

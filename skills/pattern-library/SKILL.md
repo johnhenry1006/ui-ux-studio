@@ -23,3 +23,5 @@ Keep screens consistent through durable files and versioned records.
 Example: Reports reuses data-table@0.1.0; keep lock despite library 0.2.0; find Archived import missing from inventory.
 
 Common mistakes: duplicate root/design locks, treating a seed as installed code, automatic upgrades, docs-only synchronization.
+
+For selected header/item/component edits use [UI Refinement](../ui-refinement/SKILL.md); for preview/selection/fidelity and refresh use [UI Preview](../ui-preview/SKILL.md). Retain current task scope and existing contracts.

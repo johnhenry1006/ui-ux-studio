@@ -23,3 +23,5 @@ If a required file/tool is absent, request it or explicitly narrow the output. D
 Identify target artifact type, provider/surface and capabilities independently. Producer sources read is provenance; a recipient must receive/read those sources again. A provider profile supplies documented guidance, not actual access. Unknown surfaces use focused clarification or generic/manual packet delivery.
 
 Prompt-only/export prepares instructions and artifacts for handoff; direct executes within current tools and user scope. Store project packets/progress in design/ai/ or equivalent, not inside packaged skills. Track observed vs user_provided vs none evidence; required fail/not_run/missing evidence blocks completion. Old progress logs require current source/revision checks before resume.
+
+Focused edits additionally identify page/instance key, requested properties, preserve list and current source/preview revision. Read UI Preview selection contract and UI Refinement scope contract; stale/unknown mapping requires resolution. Selection is not edit execution.
